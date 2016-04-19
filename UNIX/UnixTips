@@ -1,0 +1,13 @@
+Linux and R
+-----------
+http://www.pitt.edu/~njc23/Linux_and_R.pdf
+http://how-to.linuxcareer.com/introduction-to-gnu-r-on-linux-operating-system
+
+* mount
+* env | grep PATH; PATH="dir:$PATH"; echo $PATH;
+* ls -1 | wc -l 
+* whoami; sudo -u [usr]
+* whoami; su - [usr]
+* which R; type R; locate -b R | fgrep -w R/bin
+* nohup ./[some.sh] &
+* jobs; fg 1
