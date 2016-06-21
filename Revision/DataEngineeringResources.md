@@ -1,9 +1,25 @@
-Data Engineer
-=============
+Commute
+=======
 + coursera - positive psychology - https://www.coursera.org/learn/positive-psychology/home/welcome
+
+Morning - Artificial Intelligence
+=================================
++ pluralsight - understanding machine learning using python
++ pluralsight - understanding machine learning using R
++ data science from scratch
++ http://machinelearningmastery.com/
++ UC Berkeley AI Intro Course -- http://ai.berkeley.edu/home.html
++ AI book online: http://artint.info/index.html
++ get AAAI membership
++ http://aitopics.org/
++ http://www.amazon.com/Artificial-Intelligence-Humans-Volume-Fundamental/dp/1493682229/ref=pd_bxgy_14_img_3?ie=UTF8&refRID
+
+Evening - Data Engineer
+=======================
 + statistics - http://stattrek.com/tutorials/statistics-tutorial.aspx
 + coursera - big data specialization - https://www.coursera.org/specializations/bigdata
 + github - introduction to pyspark by alex robbins - https://github.com/faameem/IntroductionToPySpark
++ Big Data University - learning paths
 + apache spark - http://spark.apache.org/
 + apache spark bootcamp - http://bigdatasciencebootcamp.com/
 + apache spark & machine learning - http://blog.districtdatalabs.com/
@@ -26,7 +42,6 @@ Data Engineer
 + coursera - startup entrepreneurship specialization - https://www.coursera.org/specializations/startup-entrepreneurship
 + coursera - business strategy specialization - https://www.coursera.org/specializations/business-strategy
 + coursera - investment management specialization - https://www.coursera.org/specializations/investment-management
-+ Big Data University - learning paths
 
 
 Review
@@ -54,15 +69,6 @@ Tableau
 + http://www.tableau.com/stories/gallery/retail-site-analysis
 + https://onlinehelp.tableau.com/current/pro/online/mac/en-us/parameters_create.html
 + http://drawingwithnumbers.artisart.org/creating-a-dynamic-parameter-with-a-tableau-data-blend/
-
-AI
-== 
-+ UC Berkeley AI Intro Course -- http://ai.berkeley.edu/home.html
-+ AI book online: http://artint.info/index.html
-+ get AAAI membership
-+ http://aitopics.org/
-+ http://machinelearningmastery.com/
-+ http://www.amazon.com/Artificial-Intelligence-Humans-Volume-Fundamental/dp/1493682229/ref=pd_bxgy_14_img_3?ie=UTF8&refRID
 
 Design Patterns
 ===============
