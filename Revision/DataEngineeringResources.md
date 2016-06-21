@@ -6,6 +6,8 @@ Morning - Artificial Intelligence
 =================================
 + pluralsight - understanding machine learning using python
 + pluralsight - understanding machine learning using R
++ safari books online - Hilary Mason: An Introduction to Machine Learning with Web Data - https://github.com/hmason?tab=repositories
++ safari books online - Hilary Mason: Advanced Machine Learning - https://github.com/hmason?tab=repositories
 + data science from scratch
 + http://machinelearningmastery.com/
 + UC Berkeley AI Intro Course -- http://ai.berkeley.edu/home.html
