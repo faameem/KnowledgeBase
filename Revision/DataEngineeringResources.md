@@ -1,18 +1,40 @@
+Data Engineer
+=============
++ coursera - positive psychology - https://www.coursera.org/learn/positive-psychology/home/welcome
++ statistics - http://stattrek.com/tutorials/statistics-tutorial.aspx
++ coursera - big data specialization - https://www.coursera.org/specializations/bigdata
++ github - introduction to pyspark by alex robbins - https://github.com/faameem/IntroductionToPySpark
++ apache spark - http://spark.apache.org/
++ apache spark bootcamp - http://bigdatasciencebootcamp.com/
++ apache spark & machine learning - http://blog.districtdatalabs.com/
++ big data labs - http://www.clouddatalab.com/index.html
++ edX - berkeley data science and engineering with apache spark - https://www.edx.org/xseries/data-science-engineering-apache-spark
++ edX - microsoft data science curriculum - https://www.edx.org/microsoft-data-science-curriculum
++ coursera - data science specialization - https://www.coursera.org/specializations/jhu-data-science
++ edx - data science and analytics in context - https://www.edx.org/xseries/data-science-analytics-context
++ edx - data analysis for life sciences - https://www.edx.org/xseries/data-analysis-life-sciences
++ coursera - machine learning specialization - https://www.coursera.org/specializations/machine-learning
++ coursera - robotics specialization - https://www.coursera.org/specializations/robotics
++ coursera - executive data science specialization - https://www.coursera.org/specializations/executive-data-science
++ coursera - business foundations specialization - https://www.coursera.org/specializations/wharton-business-foundations
++ edx - fundamentals of business management - https://www.edx.org/xseries/fundamentals-business-management
++ coursera - business analytics specialization - https://www.coursera.org/specializations/business-analytics
++ edx - marketing analytics - https://www.edx.org/xseries/marketing-analytics
++ coursera - entrepreneuship specialization - https://www.coursera.org/specializations/wharton-entrepreneurship
++ coursera - start your own business specialization - https://www.coursera.org/specializations/start-your-own-business
++ coursera - entrepreneurship: launching an innovative business specialization - https://www.coursera.org/specializations/business-entrepreneurship
++ coursera - startup entrepreneurship specialization - https://www.coursera.org/specializations/startup-entrepreneurship
++ coursera - business strategy specialization - https://www.coursera.org/specializations/business-strategy
++ coursera - investment management specialization - https://www.coursera.org/specializations/investment-management
++ Big Data University - learning paths
+
+
 Review
 ======
-+ Big Data Labs - http://www.clouddatalab.com/index.html
-+ Coursera - positive psychology
-+ Statistics - www.stattrek.com
-+ Coursera - big data specialization
-+ Coursera - data science specialization
 + Python - mit - http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/?r=iTunes
 + Python - http://www.tutorialspoint.com/python/index.htm
 + Python - http://mcsp.wartburg.edu/zelle/python/ppics2/index.html
 + Python - http://www.davekuhlman.org/python_book_01.html
-+ GitHub - Introduction to PySpark by Alex Robbins
-+ Big Data University - learning paths
-+ EdX - microsoft data science curriculum - https://www.edx.org/microsoft-data-science-curriculum
-+ EdX - berkeley data science and engineering with apache spark - https://www.edx.org/xseries/data-science-engineering-apache-spark
 + EdX - subject areas - business and management - computer science (robotics) - data analysis and statistics
 
 Spark
@@ -22,8 +44,6 @@ Spark
 + Learning Spark by Holden Karau
 + Advanced Analytics with Spark by Sandy Ryza...
 + databricks docs site
-+ http://bigdatasciencebootcamp.com/ -- for spark
-+ http://blog.districtdatalabs.com/ -- for spark, machine learning
 
 Tableau
 =======
