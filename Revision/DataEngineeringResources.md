@@ -23,6 +23,7 @@ Morning - Artificial Intelligence
 Evening - Data Engineer
 =======================
 + statistics - http://stattrek.com/tutorials/statistics-tutorial.aspx
++ data science for beginners - data school blog - http://www.dataschool.io/
 + coursera - big data specialization - https://www.coursera.org/specializations/bigdata
 + github - introduction to pyspark by alex robbins - https://github.com/faameem/IntroductionToPySpark
 + Big Data University - learning paths
