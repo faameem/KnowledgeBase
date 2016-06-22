@@ -11,6 +11,7 @@ Morning - Artificial Intelligence
 + sbo - video - Hilary Mason: An Introduction to Machine Learning with Web Data - https://github.com/hmason?tab=repositories
 + sbo - video - Hilary Mason: Advanced Machine Learning - https://github.com/hmason?tab=repositories
 + sbo - book - python machine learning - https://www.safaribooksonline.com/library/view/python-machine-learning/9781783555130/
+  - linear algebra review - http://www.cs.cmu.edu/~zkolter/course/linalg/linalg_notes.pdf
 + sbo - book - data science from scratch - https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/
 + sbo - book - machine learning with spark - https://www.safaribooksonline.com/library/view/machine-learning-with/9781783288519/
 + pluralsight - understanding machine learning using R
