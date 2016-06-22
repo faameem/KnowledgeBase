@@ -6,6 +6,7 @@ Morning - Artificial Intelligence
 =================================
 + pluralsight - understanding machine learning
 + pluralsight - understanding machine learning using python
++ dataschool - python pandas - http://www.dataschool.io/easier-data-analysis-with-pandas/
 + dataschool - machine learning with scikit-learn - http://www.dataschool.io/machine-learning-with-scikit-learn/
 + sbo - video - Hilary Mason: An Introduction to Machine Learning with Web Data - https://github.com/hmason?tab=repositories
 + sbo - video - Hilary Mason: Advanced Machine Learning - https://github.com/hmason?tab=repositories
