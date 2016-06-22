@@ -12,6 +12,10 @@ Morning - Artificial Intelligence
 + sbo - video - Hilary Mason: Advanced Machine Learning - https://github.com/hmason?tab=repositories
 + sbo - book - python machine learning - https://www.safaribooksonline.com/library/view/python-machine-learning/9781783555130/
   - linear algebra review - http://www.cs.cmu.edu/~zkolter/course/linalg/linalg_notes.pdf
+  - numpy tutorial - https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
+  - panda tutorial - http://pandas.pydata.org/pandas-docs/stable/tutorials.html
+  - matplotlib - http://matplotlib.org/users/beginner.html
+  - ipython notebook - http://ipython.readthedocs.io/en/stable/
 + sbo - book - data science from scratch - https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/
 + sbo - book - machine learning with spark - https://www.safaribooksonline.com/library/view/machine-learning-with/9781783288519/
 + pluralsight - understanding machine learning using R
