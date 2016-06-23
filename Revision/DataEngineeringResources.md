@@ -4,12 +4,15 @@ Commute
 
 Morning - Artificial Intelligence
 =================================
-+ pluralsight - understanding machine learning
-+ pluralsight - understanding machine learning using python
++ edx - Introduction to Python for Data Science - https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+1T2016/info
 + dataschool - python pandas - http://www.dataschool.io/easier-data-analysis-with-pandas/
++ pluralsight - understanding machine learning
 + dataschool - machine learning with scikit-learn - http://www.dataschool.io/machine-learning-with-scikit-learn/
++ dataschool - other ML related blog posts
++ pluralsight - understanding machine learning using python
 + sbo - video - Hilary Mason: An Introduction to Machine Learning with Web Data - https://github.com/hmason?tab=repositories
 + sbo - video - Hilary Mason: Advanced Machine Learning - https://github.com/hmason?tab=repositories
++ edx - Programming with Python for Data Science - https://www.edx.org/course/programming-python-data-science-microsoft-dat210x#!
 + sbo - book - python machine learning - https://www.safaribooksonline.com/library/view/python-machine-learning/9781783555130/
   - linear algebra review - http://www.cs.cmu.edu/~zkolter/course/linalg/linalg_notes.pdf
   - numpy tutorial - https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
