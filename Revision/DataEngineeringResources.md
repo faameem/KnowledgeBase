@@ -6,6 +6,7 @@ Morning - Artificial Intelligence
 =================================
 + edx - Introduction to Python for Data Science - https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+1T2016/info
 + dataschool - python pandas - http://www.dataschool.io/easier-data-analysis-with-pandas/
++ matplotlib - https://github.com/WeatherGod/AnatomyOfMatplotlib
 + pluralsight - understanding machine learning
 + dataschool - machine learning with scikit-learn - http://www.dataschool.io/machine-learning-with-scikit-learn/
 + dataschool - other ML related blog posts
