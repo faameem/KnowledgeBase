@@ -4,11 +4,13 @@ Commute
 
 Morning - Artificial Intelligence
 =================================
++ dataschool - python quick reference - http://www.dataschool.io/python-quick-reference/
 + edx - Introduction to Python for Data Science - https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+1T2016/info
 + dataschool - python pandas - http://www.dataschool.io/easier-data-analysis-with-pandas/
 + matplotlib - tutorials
   - https://github.com/WeatherGod/AnatomyOfMatplotlib
   - http://www.labri.fr/perso/nrougier/teaching/matplotlib/
++ data school - General Assembly's Data Science course in Washington, DC - https://github.com/justmarkham/DAT8
 + pluralsight - understanding machine learning
 + dataschool - machine learning with scikit-learn - http://www.dataschool.io/machine-learning-with-scikit-learn/
 + dataschool - other ML related blog posts
@@ -37,7 +39,8 @@ Morning - Artificial Intelligence
 Evening - Data Engineer
 =======================
 + statistics - http://stattrek.com/tutorials/statistics-tutorial.aspx
-+ data science for beginners - data school blog - http://www.dataschool.io/
++ data school - getting better at data science - http://www.dataschool.io/how-to-get-better-at-data-science/
++ data school - top content - http://www.dataschool.io/two-years-of-data-school/
 + coursera - big data specialization - https://www.coursera.org/specializations/bigdata
 + github - introduction to pyspark by alex robbins - https://github.com/faameem/IntroductionToPySpark
 + Big Data University - learning paths
