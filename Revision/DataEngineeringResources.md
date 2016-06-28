@@ -1,10 +1,9 @@
-Commute
-=======
+Positivity
+==========
 + coursera - positive psychology - https://www.coursera.org/learn/positive-psychology/home/welcome
 + help guide - http://www.helpguide.org/
 + greater good - http://greatergood.berkeley.edu/
 + positive psychology network - http://www.ippanetwork.org/
-+ 
 
 Artificial Intelligence
 =======================
@@ -21,6 +20,7 @@ Artificial Intelligence
 + sbo - video - Hilary Mason: An Introduction to Machine Learning with Web Data - https://github.com/hmason?tab=repositories
 + sbo - video - Hilary Mason: Advanced Machine Learning - https://github.com/hmason?tab=repositories
 + edx - Programming with Python for Data Science - https://www.edx.org/course/programming-python-data-science-microsoft-dat210x#!
++ sbo - book - introduction to machine learning with python 
 + sbo - book - python machine learning - https://www.safaribooksonline.com/library/view/python-machine-learning/9781783555130/
   - linear algebra review - http://www.cs.cmu.edu/~zkolter/course/linalg/linalg_notes.pdf
   - numpy tutorial - https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
@@ -32,6 +32,8 @@ Artificial Intelligence
 + pluralsight - understanding machine learning using R
 + sbo - book - machine learning with r - https://www.safaribooksonline.com/library/view/machine-learning-with/9781784393908/
 + sbo - book - r machine learning by example - https://www.safaribooksonline.com/library/view/r-machine-learning/9781784390846/
++ coursera - machine learning specialization - https://www.coursera.org/specializations/machine-learning
++ coursera - robotics specialization - https://www.coursera.org/specializations/robotics
 + http://machinelearningmastery.com/
 + UC Berkeley AI Intro Course -- http://ai.berkeley.edu/home.html
 + AI book online: http://artint.info/index.html
@@ -41,33 +43,39 @@ Artificial Intelligence
 
 Data Engineer
 =============
-+ data school - General Assembly's Data Science course in Washington, DC - https://github.com/justmarkham/DAT8
-+ data school - getting better at data science - http://www.dataschool.io/how-to-get-better-at-data-science/
-+ data school - top content - http://www.dataschool.io/two-years-of-data-school/
++ edX - berkeley data science and engineering with apache spark - https://www.edx.org/xseries/data-science-engineering-apache-spark
 + coursera - big data specialization - https://www.coursera.org/specializations/bigdata
 + github - introduction to pyspark by alex robbins - https://github.com/faameem/IntroductionToPySpark
-+ Big Data University - learning paths
++ big data university - data engineer learning paths
 + apache spark - http://spark.apache.org/
 + apache spark bootcamp - http://bigdatasciencebootcamp.com/
 + apache spark & machine learning - http://blog.districtdatalabs.com/
 + big data labs - http://www.clouddatalab.com/index.html
-+ edX - berkeley data science and engineering with apache spark - https://www.edx.org/xseries/data-science-engineering-apache-spark
+
+Data Science
+============
++ data school - General Assembly's Data Science course in Washington, DC - https://github.com/justmarkham/DAT8
++ data school - getting better at data science - http://www.dataschool.io/how-to-get-better-at-data-science/
++ data school - top content - http://www.dataschool.io/two-years-of-data-school/
 + edX - microsoft data science curriculum - https://www.edx.org/microsoft-data-science-curriculum
++ big data university - data science learning paths
 + coursera - data science specialization - https://www.coursera.org/specializations/jhu-data-science
 + edx - data science and analytics in context - https://www.edx.org/xseries/data-science-analytics-context
 + edx - data analysis for life sciences - https://www.edx.org/xseries/data-analysis-life-sciences
-+ coursera - machine learning specialization - https://www.coursera.org/specializations/machine-learning
-+ coursera - robotics specialization - https://www.coursera.org/specializations/robotics
-+ coursera - executive data science specialization - https://www.coursera.org/specializations/executive-data-science
-+ coursera - business foundations specialization - https://www.coursera.org/specializations/wharton-business-foundations
-+ edx - fundamentals of business management - https://www.edx.org/xseries/fundamentals-business-management
 + coursera - business analytics specialization - https://www.coursera.org/specializations/business-analytics
 + edx - marketing analytics - https://www.edx.org/xseries/marketing-analytics
++ coursera - executive data science specialization - https://www.coursera.org/specializations/executive-data-science
+
+Entrepreneurship
+================
++ edx - mit - becoming an entrepreneur - https://courses.edx.org/courses/course-v1:MITx+Launch.x_2+2T2016/info
 + coursera - entrepreneuship specialization - https://www.coursera.org/specializations/wharton-entrepreneurship
 + coursera - start your own business specialization - https://www.coursera.org/specializations/start-your-own-business
 + coursera - entrepreneurship: launching an innovative business specialization - https://www.coursera.org/specializations/business-entrepreneurship
 + coursera - startup entrepreneurship specialization - https://www.coursera.org/specializations/startup-entrepreneurship
 + coursera - business strategy specialization - https://www.coursera.org/specializations/business-strategy
++ coursera - business foundations specialization - https://www.coursera.org/specializations/wharton-business-foundations
++ edx - fundamentals of business management - https://www.edx.org/xseries/fundamentals-business-management
 + coursera - investment management specialization - https://www.coursera.org/specializations/investment-management
 
 Mathematics
