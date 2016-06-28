@@ -6,15 +6,14 @@ Commute
 + positive psychology network - http://www.ippanetwork.org/
 + 
 
-Morning - Artificial Intelligence
-=================================
+Artificial Intelligence
+=======================
 + dataschool - python quick reference - http://www.dataschool.io/python-quick-reference/
 + edx - Introduction to Python for Data Science - https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+1T2016/info
 + dataschool - python pandas - http://www.dataschool.io/easier-data-analysis-with-pandas/
 + matplotlib - tutorials
   - https://github.com/WeatherGod/AnatomyOfMatplotlib
   - http://www.labri.fr/perso/nrougier/teaching/matplotlib/
-+ data school - General Assembly's Data Science course in Washington, DC - https://github.com/justmarkham/DAT8
 + pluralsight - understanding machine learning
 + dataschool - machine learning with scikit-learn - http://www.dataschool.io/machine-learning-with-scikit-learn/
 + dataschool - other ML related blog posts
@@ -40,9 +39,9 @@ Morning - Artificial Intelligence
 + http://aitopics.org/
 + http://www.amazon.com/Artificial-Intelligence-Humans-Volume-Fundamental/dp/1493682229/ref=pd_bxgy_14_img_3?ie=UTF8&refRID
 
-Evening - Data Engineer
-=======================
-+ statistics - http://stattrek.com/tutorials/statistics-tutorial.aspx
+Data Engineer
+=============
++ data school - General Assembly's Data Science course in Washington, DC - https://github.com/justmarkham/DAT8
 + data school - getting better at data science - http://www.dataschool.io/how-to-get-better-at-data-science/
 + data school - top content - http://www.dataschool.io/two-years-of-data-school/
 + coursera - big data specialization - https://www.coursera.org/specializations/bigdata
@@ -70,6 +69,10 @@ Evening - Data Engineer
 + coursera - startup entrepreneurship specialization - https://www.coursera.org/specializations/startup-entrepreneurship
 + coursera - business strategy specialization - https://www.coursera.org/specializations/business-strategy
 + coursera - investment management specialization - https://www.coursera.org/specializations/investment-management
+
+Mathematics
+===========
++ statistics - http://stattrek.com/tutorials/statistics-tutorial.aspx
 
 
 Review
