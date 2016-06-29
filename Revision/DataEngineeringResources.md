@@ -7,20 +7,12 @@ Positivity
 
 Artificial Intelligence
 =======================
-+ dataschool - python quick reference - http://www.dataschool.io/python-quick-reference/
-+ edx - Introduction to Python for Data Science - https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+1T2016/info
-+ dataschool - python pandas - http://www.dataschool.io/easier-data-analysis-with-pandas/
-+ matplotlib - tutorials
-  - https://github.com/WeatherGod/AnatomyOfMatplotlib
-  - http://www.labri.fr/perso/nrougier/teaching/matplotlib/
++ sbo - book - introduction to machine learning with python 
 + pluralsight - understanding machine learning
-+ dataschool - machine learning with scikit-learn - http://www.dataschool.io/machine-learning-with-scikit-learn/
-+ dataschool - other ML related blog posts
 + pluralsight - understanding machine learning using python
++ dataschool - machine learning with scikit-learn - http://www.dataschool.io/machine-learning-with-scikit-learn/
 + sbo - video - Hilary Mason: An Introduction to Machine Learning with Web Data - https://github.com/hmason?tab=repositories
 + sbo - video - Hilary Mason: Advanced Machine Learning - https://github.com/hmason?tab=repositories
-+ edx - Programming with Python for Data Science - https://www.edx.org/course/programming-python-data-science-microsoft-dat210x#!
-+ sbo - book - introduction to machine learning with python 
 + sbo - book - python machine learning - https://www.safaribooksonline.com/library/view/python-machine-learning/9781783555130/
   - linear algebra review - http://www.cs.cmu.edu/~zkolter/course/linalg/linalg_notes.pdf
   - numpy tutorial - https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
@@ -28,7 +20,6 @@ Artificial Intelligence
   - matplotlib - http://matplotlib.org/users/beginner.html
   - ipython notebook - http://ipython.readthedocs.io/en/stable/
 + sbo - book - data science from scratch - https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/
-+ sbo - book - machine learning with spark - https://www.safaribooksonline.com/library/view/machine-learning-with/9781783288519/
 + pluralsight - understanding machine learning using R
 + sbo - book - machine learning with r - https://www.safaribooksonline.com/library/view/machine-learning-with/9781784393908/
 + sbo - book - r machine learning by example - https://www.safaribooksonline.com/library/view/r-machine-learning/9781784390846/
@@ -50,10 +41,17 @@ Data Engineer
 + apache spark - http://spark.apache.org/
 + apache spark bootcamp - http://bigdatasciencebootcamp.com/
 + apache spark & machine learning - http://blog.districtdatalabs.com/
++ sbo - book - machine learning with spark - https://www.safaribooksonline.com/library/view/machine-learning-with/9781783288519/
 + big data labs - http://www.clouddatalab.com/index.html
 
 Data Science
 ============
++ dataschool - python quick reference - http://www.dataschool.io/python-quick-reference/
++ edx - Introduction to Python for Data Science - https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+1T2016/info
++ dataschool - python pandas - http://www.dataschool.io/easier-data-analysis-with-pandas/
++ matplotlib - tutorials
+  - https://github.com/WeatherGod/AnatomyOfMatplotlib
+  - http://www.labri.fr/perso/nrougier/teaching/matplotlib/
 + data school - General Assembly's Data Science course in Washington, DC - https://github.com/justmarkham/DAT8
 + data school - getting better at data science - http://www.dataschool.io/how-to-get-better-at-data-science/
 + data school - top content - http://www.dataschool.io/two-years-of-data-school/
