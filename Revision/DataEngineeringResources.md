@@ -34,6 +34,7 @@ Artificial Intelligence
 
 Data Engineer
 =============
++ unix/python tutorial - http://ai.berkeley.edu/tutorial.html#PythonBasics
 + edX - berkeley data science and engineering with apache spark - https://www.edx.org/xseries/data-science-engineering-apache-spark
 + coursera - big data specialization - https://www.coursera.org/specializations/bigdata
 + github - introduction to pyspark by alex robbins - https://github.com/faameem/IntroductionToPySpark
