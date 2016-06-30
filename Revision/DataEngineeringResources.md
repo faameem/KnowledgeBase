@@ -8,6 +8,7 @@ Positivity
 Artificial Intelligence
 =======================
 + sbo - book - introduction to machine learning with python 
++ python ML book list - http://machinelearningmastery.com/python-machine-learning-books/
 + pluralsight - understanding machine learning
 + pluralsight - understanding machine learning using python
 + dataschool - machine learning with scikit-learn - http://www.dataschool.io/machine-learning-with-scikit-learn/
