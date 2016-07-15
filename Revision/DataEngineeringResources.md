@@ -7,6 +7,7 @@ Positivity
 
 Artificial Intelligence
 =======================
++ group - nlp, sentiment analysis, dl - https://github.com/Lab41/sunny-side-up/wiki/Learning-Resources-for-NLP,-Sentiment-Analysis,-and-Deep-Learning
 + group - deep learning (np jobs) - http://deeplearning.net/
 + sbo - book - introduction to machine learning with python 
 + python ML book list - http://machinelearningmastery.com/python-machine-learning-books/
