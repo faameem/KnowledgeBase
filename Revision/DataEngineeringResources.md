@@ -7,6 +7,7 @@ Positivity
 
 Artificial Intelligence
 =======================
++ group - deep learning (np jobs) - http://deeplearning.net/
 + sbo - book - introduction to machine learning with python 
 + python ML book list - http://machinelearningmastery.com/python-machine-learning-books/
 + pluralsight - understanding machine learning
