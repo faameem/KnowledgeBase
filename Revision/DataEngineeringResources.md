@@ -1,3 +1,21 @@
+Career Path (Blog It)
+=====================
++ stattrek.com
++ tableau advanced desktop - tableau javascript api - tableau dataconnector with angularjs
++ coursera big data specialization
++ apache spark site documentation
++ edX apache spark
++ mapR apache spark
++ big data university apache spark
++ book - learning apache spark
++ book - mastering apache spark
++ book - spark for python developers
++ book - machine learning with apache spark
++ spark certification
++ coursera data science specialization
++ coursera machine learning specialization
++ apply for job in machine learning at UN or other non-profit
+
 Positivity
 ==========
 + coursera - positive psychology - https://www.coursera.org/learn/positive-psychology/home/welcome
