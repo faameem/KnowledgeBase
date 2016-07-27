@@ -6,7 +6,7 @@ Career Path (Blog It)
 |stattrek.com|tableau advanced desktop|apache spark site documentation|coursera: big data specialization|pluralsight: understanding machine learning|
 ||tableau javascript api|edX apache spark|coursera: data science specialization|pluralsight: understanding machine learning using python|
 ||tableau dataconnector with angularjs|mapR apache spark|coursera: machine learning specialization|book: learning scikit-learn: Machine Learning with Python
-||Kibana|big data university apache spark|coursera: robotics specialization||
+||Kibana|big data university apache spark|coursera: robotics specialization|scikit-learn.org documentation & examples|
 
 + 
 + 
