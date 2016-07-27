@@ -3,22 +3,26 @@ Career Path (Blog It)
 
 | Mathematics | Visualization | Data Science I | Data Science II | Machine Learning|
 |:-----------:|:-------------:|:--------------:|:---------------:|:----------------|
-|stattrek.com|tableau advanced desktop|apache spark site documentation|coursera: big data specialization|book: learning scikit-learn: Machine Learning with Python|
+|stattrek.com|tableau advanced desktop|apache spark site documentation|coursera: big data specialization|pluralsight: understanding machine learning|
+||tableau javascript api|edX apache spark|coursera: data science specialization|pluralsight: understanding machine learning using python|
+||tableau dataconnector with angularjs|mapR apache spark|coursera: machine learning specialization|book: learning scikit-learn: Machine Learning with Python
+||Kibana|big data university apache spark|coursera: robotics specialization||
 
 + 
-+  - tableau javascript api - tableau dataconnector with angularjs
 + 
-+ apache spark site documentation
-+ edX apache spark
-+ mapR apache spark
-+ big data university apache spark
+
++ 
++  -  - 
+
++ 
++ 
++ 
 + book - learning apache spark
 + book - mastering apache spark
 + book - spark for python developers
 + book - machine learning with apache spark
 + spark certification
-+ coursera data science specialization
-+ coursera machine learning specialization
++ 
 + apply for job in machine learning at UN or other non-profit
 
 Positivity
@@ -34,8 +38,6 @@ Artificial Intelligence
 + group - deep learning (np jobs) - http://deeplearning.net/
 + sbo - book - introduction to machine learning with python 
 + python ML book list - http://machinelearningmastery.com/python-machine-learning-books/
-+ pluralsight - understanding machine learning
-+ pluralsight - understanding machine learning using python
 + dataschool - machine learning with scikit-learn - http://www.dataschool.io/machine-learning-with-scikit-learn/
 + sbo - video - Hilary Mason: An Introduction to Machine Learning with Web Data - https://github.com/hmason?tab=repositories
 + sbo - video - Hilary Mason: Advanced Machine Learning - https://github.com/hmason?tab=repositories
