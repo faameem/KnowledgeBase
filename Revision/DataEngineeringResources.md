@@ -1,8 +1,13 @@
 Career Path (Blog It)
 =====================
-+ stattrek.com
-+ tableau advanced desktop - tableau javascript api - tableau dataconnector with angularjs
-+ coursera big data specialization
+
+| Mathematics | Visualization | Data Science I | Data Science II | Machine Learning|
+|:-----------:|:-------------:|:--------------:|:---------------:|:----------------|
+|stattrek.com|tableau advanced desktop|apache spark site documentation|coursera: big data specialization|book: learning scikit-learn: Machine Learning with Python|
+
++ 
++  - tableau javascript api - tableau dataconnector with angularjs
++ 
 + apache spark site documentation
 + edX apache spark
 + mapR apache spark
