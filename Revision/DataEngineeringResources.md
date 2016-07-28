@@ -7,22 +7,12 @@ Career Path (Blog It)
 ||tableau javascript api|edX apache spark|coursera: data science specialization|pluralsight: understanding machine learning using python|
 ||tableau dataconnector with angularjs|mapR apache spark|coursera: machine learning specialization|book: learning scikit-learn: Machine Learning with Python
 ||Kibana|big data university apache spark|coursera: robotics specialization|scikit-learn.org documentation & examples|
+||Shiny (bit.ly/shiny-quickstart-1)|book - learning apache spark||
+||Shiny (bit.ly/shiny-quickstart-2)|book - mastering apache spark||
+||Shiny (bit.ly/shiny-quickstart-3)|book - spark for python developers||
+|||book - machine learning with apache spark||
+|||spark certification||
 
-+ 
-+ 
-
-+ 
-+  -  - 
-
-+ 
-+ 
-+ 
-+ book - learning apache spark
-+ book - mastering apache spark
-+ book - spark for python developers
-+ book - machine learning with apache spark
-+ spark certification
-+ 
 + apply for job in machine learning at UN or other non-profit
 
 Positivity
