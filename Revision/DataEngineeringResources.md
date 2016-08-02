@@ -4,12 +4,12 @@ Career Path (Blog It)
 |Mathematics|Visualization|Data Science I|Data Science II|Artificial Intelligence & Robotics|
 |:-----------:|:-------------:|:--------------:|:---------------:|:----------------:|
 |statistics: stattrek.com|tableau advanced desktop|apache spark site documentation|coursera: big data specialization|pluralsight: understanding machine learning|
-|calculus: [mit] (http://www-math.mit.edu/~djk/calculus_beginners/index.html)|tableau javascript api|edX apache spark|coursera: data science specialization|pluralsight: understanding machine learning using python|
-|liear algebra: [machine learning mastery] (http://machinelearningmastery.com/linear-algebra-machine-learning/)|tableau dataconnector with angularjs|mapR apache spark||book: learning scikit-learn: Machine Learning with Python
+|calculus: [mit](http://www-math.mit.edu/~djk/calculus_beginners/index.html)|tableau javascript api|edX apache spark|coursera: data science specialization|pluralsight: understanding machine learning using python|
+|liear algebra: [machine learning mastery](http://machinelearningmastery.com/linear-algebra-machine-learning/)|tableau dataconnector with angularjs|mapR apache spark||book: learning scikit-learn: Machine Learning with Python
 ||Kibana|big data university apache spark||scikit-learn.org documentation & examples|
-||Shiny (bit.ly/shiny-quickstart-1)|book - learning apache spark|coursera: machine learning specialization|
-||Shiny (bit.ly/shiny-quickstart-2)|book - mastering apache spark|coursera: robotics specialization|
-||Shiny (bit.ly/shiny-quickstart-3)|book - spark for python developers||
+||[Shiny quickstar-1](bit.ly/shiny-quickstart-1)|book - learning apache spark||coursera: machine learning specialization|
+||[Shiny quickstart-2](bit.ly/shiny-quickstart-2)|book - mastering apache spark||coursera: robotics specialization
+||[Shiny quickstart-3](bit.ly/shiny-quickstart-3)|book - spark for python developers||
 |||book - machine learning with apache spark||
 |||spark certification||
 
