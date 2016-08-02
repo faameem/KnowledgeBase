@@ -1,7 +1,7 @@
 Career Path (Blog It)
 =====================
 
-| Mathematics | Visualization | Data Science I | Data Science II | Machine Learning|
+|Mathematics|Visualization|Data Science I|Data Science II|Artificial Intelligence & Robotics|
 |:-----------:|:-------------:|:--------------:|:---------------:|:----------------|
 |statistics: stattrek.com|tableau advanced desktop|apache spark site documentation|coursera: big data specialization|pluralsight: understanding machine learning|
 |calculus: [mit] (http://www-math.mit.edu/~djk/calculus_beginners/index.html)|tableau javascript api|edX apache spark|coursera: data science specialization|pluralsight: understanding machine learning using python|
