@@ -3,9 +3,9 @@ Career Path (Blog It)
 
 | Mathematics | Visualization | Data Science I | Data Science II | Machine Learning|
 |:-----------:|:-------------:|:--------------:|:---------------:|:----------------|
-|stattrek.com|tableau advanced desktop|apache spark site documentation|coursera: big data specialization|pluralsight: understanding machine learning|
-||tableau javascript api|edX apache spark|coursera: data science specialization|pluralsight: understanding machine learning using python|
-||tableau dataconnector with angularjs|mapR apache spark|coursera: machine learning specialization|book: learning scikit-learn: Machine Learning with Python
+|statistics: stattrek.com|tableau advanced desktop|apache spark site documentation|coursera: big data specialization|pluralsight: understanding machine learning|
+|calculus: [mit] (http://www-math.mit.edu/~djk/calculus_beginners/index.html)|tableau javascript api|edX apache spark|coursera: data science specialization|pluralsight: understanding machine learning using python|
+|liear algebra: [machine learning mastery] (http://machinelearningmastery.com/linear-algebra-machine-learning/)|tableau dataconnector with angularjs|mapR apache spark|coursera: machine learning specialization|book: learning scikit-learn: Machine Learning with Python
 ||Kibana|big data university apache spark|coursera: robotics specialization|scikit-learn.org documentation & examples|
 ||Shiny (bit.ly/shiny-quickstart-1)|book - learning apache spark||
 ||Shiny (bit.ly/shiny-quickstart-2)|book - mastering apache spark||
