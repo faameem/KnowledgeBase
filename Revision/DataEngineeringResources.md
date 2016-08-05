@@ -9,9 +9,9 @@ Career Path (Blog It)
 ||Kibana|big data university apache spark||scikit-learn.org documentation & examples|[MIRI] (https://intelligence.org/)|
 ||[Shiny quickstar-1](bit.ly/shiny-quickstart-1)|book - learning apache spark||coursera: machine learning specialization|[OpenAI] (https://openai.com/blog/)|
 ||[Shiny quickstart-2](bit.ly/shiny-quickstart-2)|book - mastering apache spark||coursera: robotics specialization||
-||[Shiny quickstart-3](bit.ly/shiny-quickstart-3)|book - spark for python developers||AI Tutorial||
-|||book - machine learning with apache spark|||
-|||spark certification|||
+||[Shiny quickstart-3](bit.ly/shiny-quickstart-3)|book - spark for python developers||[Tutorials Point: AI Tutorial] (http://www.tutorialspoint.com/artificial_intelligence/)||
+|||book - machine learning with apache spark||[ai course: mit] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)||
+|||spark certification||[ai course: berkeley] (http://ai.berkeley.edu/home.html)||
 
 + apply for job in machine learning at UN or other non-profit
 
@@ -44,7 +44,7 @@ Artificial Intelligence
 + coursera - machine learning specialization - https://www.coursera.org/specializations/machine-learning
 + coursera - robotics specialization - https://www.coursera.org/specializations/robotics
 + http://machinelearningmastery.com/
-+ UC Berkeley AI Intro Course -- http://ai.berkeley.edu/home.html
++ UC Berkeley AI Intro Course -- 
 + AI book online: http://artint.info/index.html
 + get AAAI membership
 + http://aitopics.org/
