@@ -8,7 +8,7 @@ Career Path (Blog It)
 |liear algebra: [machine learning mastery](http://machinelearningmastery.com/linear-algebra-machine-learning/)|tableau dataconnector with angularjs|mapR apache spark||book: learning scikit-learn: Machine Learning with Python|[AAAI] (http://www.aaai.org/home.html)|
 ||Kibana|big data university apache spark||scikit-learn.org documentation & examples|[MIRI] (https://intelligence.org/)|
 ||[Shiny quickstar-1](bit.ly/shiny-quickstart-1)|book - learning apache spark||coursera: machine learning specialization|[OpenAI] (https://openai.com/blog/)|
-||[Shiny quickstart-2](bit.ly/shiny-quickstart-2)|book - mastering apache spark||coursera: robotics specialization||
+||[Shiny quickstart-2](bit.ly/shiny-quickstart-2)|book - mastering apache spark||coursera: robotics specialization|[kaggle blog] (http://blog.kaggle.com/)|
 ||[Shiny quickstart-3](bit.ly/shiny-quickstart-3)|book - spark for python developers||[Tutorials Point: AI Tutorial] (http://www.tutorialspoint.com/artificial_intelligence/)||
 |||book - machine learning with apache spark||[ai course: mit] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)||
 |||spark certification||[ai course: berkeley] (http://ai.berkeley.edu/home.html)||
