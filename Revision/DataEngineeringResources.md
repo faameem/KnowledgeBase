@@ -2,7 +2,7 @@ Career Path (Blog It)
 =====================
 
 |Mathematics|Visualization|Data Science I|Data Science II|Robotics|Blogs|
-|:-----------:|:-------------:|:--------------:|:---------------:|:----------------:|:---:|
+|:---------:|:-----------:|:------------:|:-------------:|:------:|:---:|
 |statistics: stattrek.com|tableau advanced desktop|apache spark site documentation|coursera: big data specialization|pluralsight: understanding machine learning|[MIT Technology Review: Robotics] (https://www.technologyreview.com/c/robotics/)|
 |calculus: [mit](http://www-math.mit.edu/~djk/calculus_beginners/index.html)|tableau javascript api|edX apache spark|coursera: data science specialization|pluralsight: understanding machine learning using python|[IEEE Spectrum: Robotics] (http://spectrum.ieee.org/robotics/)
 |liear algebra: [machine learning mastery](http://machinelearningmastery.com/linear-algebra-machine-learning/)|tableau dataconnector with angularjs|mapR apache spark||book: learning scikit-learn: Machine Learning with Python|[AAAI] (http://www.aaai.org/home.html)|
@@ -52,6 +52,7 @@ Artificial Intelligence
 
 Data Engineer
 =============
++ pluralsight - python learning path
 + unix/python tutorial - http://ai.berkeley.edu/tutorial.html#PythonBasics
 + edX - berkeley data science and engineering with apache spark - https://www.edx.org/xseries/data-science-engineering-apache-spark
 + coursera - big data specialization - https://www.coursera.org/specializations/bigdata
