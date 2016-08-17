@@ -172,5 +172,16 @@ Data Science
 + [Johns Hopkins Coursera course materials (slides, code, etc.)](https://github.com/bcaffo/courses)
 + [This is the blog from the Johns Hopkins professors](http://simplystatistics.org/)
 + [This book is a pretty good intro](http://techbus.safaribooksonline.com/book/databases/9781118661468)
-+ 
+
+### Statistics Links ###
++ https://www.openintro.org/stat/videos.php
++ https://www.coursera.org/course/introstats
++ https://www.khanacademy.org/math/probability
++ https://courses.edx.org/courses/course-v1:KIx+KIexploRx+2015T3/info
++ https://courses.edx.org/courses/BerkeleyX/Stat_2.1x/1T2014/info
++ https://courses.edx.org/courses/BerkeleyX/Stat_2.2x/1T2014/info
++ https://courses.edx.org/courses/BerkeleyX/Stat_2.3x/2T2014/info
++ https://courses.edx.org/courses/course-v1:IIMBx+QM101.1x+1T2016/info
++ https://courses.edx.org/courses/course-v1:IIMBx+QM101.2x+2T2016/info
+
 
