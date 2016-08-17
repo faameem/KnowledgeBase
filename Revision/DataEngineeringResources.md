@@ -167,3 +167,10 @@ Data Science
 + Data Lake - https://dzone.com/articles/a-data-lake-architecture-with-hadoop-and-open-sour
 + Cheat sheets - http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html
 
+### Data Science References (Adam Ziskind) ###
++ [Course notes](https://sux13.github.io/DataScienceSpCourseNotes/)
++ [Johns Hopkins Coursera course materials (slides, code, etc.)](https://github.com/bcaffo/courses)
++ [This is the blog from the Johns Hopkins professors](http://simplystatistics.org/)
++ [This book is a pretty good intro](http://techbus.safaribooksonline.com/book/databases/9781118661468)
++ 
+
