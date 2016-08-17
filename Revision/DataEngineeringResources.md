@@ -148,6 +148,8 @@ R
 =
 + http://nicercode.github.io/guides/repeating-things/
 + trycatch -- http://mazamascience.com/WorkingWithData/?p=912
++ [R unit testing](http://www.johnmyleswhite.com/notebook/2010/08/17/unit-testing-in-r-the-bare-minimum/)
++ [R testing slides](http://www.is.uni-freiburg.de/ressourcen/algorithm-design-and-software-engineering-oeffentlicher-zugriff/11_softwaretesting.pdf)
 
 Shiny
 =====
