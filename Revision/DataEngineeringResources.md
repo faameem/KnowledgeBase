@@ -21,6 +21,7 @@ Positivity
 + help guide - http://www.helpguide.org/
 + greater good - http://greatergood.berkeley.edu/
 + positive psychology network - http://www.ippanetwork.org/
++ succeed socially - http://www.succeedsocially.com/
 
 Artificial Intelligence
 =======================
