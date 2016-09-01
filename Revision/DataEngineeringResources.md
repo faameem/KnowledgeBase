@@ -18,6 +18,7 @@ Career Path (Blog It)
 Positivity
 ==========
 + coursera - positive psychology - https://www.coursera.org/learn/positive-psychology/home/welcome
++ http://www.pursuit-of-happiness.org/
 + help guide - http://www.helpguide.org/
 + greater good - http://greatergood.berkeley.edu/
 + positive psychology network - http://www.ippanetwork.org/
