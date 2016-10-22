@@ -22,3 +22,23 @@
 + Spark certifications
   - Databricks
   - MapR
+
+## Machine Learning ##
++ [Understanding machine learning](https://github.com/faameem/machine-learning/tree/master/understanding-machine-learning)
++ [Data school - machine learning](http://www.dataschool.io/tag/machine-learning/)
+  - [Introduction to machine learning in Python with scikit-learn](http://www.dataschool.io/machine-learning-with-scikit-learn/)
+  - [Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
+  - [ROC curves and Area Under the Curve explained](http://www.dataschool.io/roc-curves-and-auc-explained/)
+  - [Simple guide to confusion matrix terminology](http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
++ [Python understanding machine language](https://github.com/faameem/machine-learning/tree/master/python-understanding-machine-learning)
++ [Machine Learning Mastery](http://machinelearningmastery.com/)
+  - [Machine Learning Algorithms Mini-Course](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
+  - [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/)
+  - [Applied Deep Learning in Python Mini-Course](http://machinelearningmastery.com/applied-deep-learning-in-python-mini-course/)
+  - [XGBoost With Python Mini-Course](http://machinelearningmastery.com/xgboost-python-mini-course/)
++ [scikit-learn Tutorials](http://scikit-learn.org/stable/tutorial/index.html)
++ [Kaggle titanic](https://www.kaggle.com/c/titanic)
+
+## Natural Language Processing ##
++ [Natural Language Processing with Python](http://www.nltk.org/book/)
++ [Kaggle NLP tutorial](https://www.kaggle.com/c/word2vec-nlp-tutorial)
