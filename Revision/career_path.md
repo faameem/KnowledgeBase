@@ -24,6 +24,7 @@
   - MapR
 
 ## Machine Learning ##
++ [MapR - Apache Spark machine learning tutorial](https://www.mapr.com/blog/apache-spark-machine-learning-tutorial)
 + [Understanding machine learning](https://github.com/faameem/machine-learning/tree/master/understanding-machine-learning)
 + [Data school - machine learning](http://www.dataschool.io/tag/machine-learning/)
   - [Introduction to machine learning in Python with scikit-learn](http://www.dataschool.io/machine-learning-with-scikit-learn/)
