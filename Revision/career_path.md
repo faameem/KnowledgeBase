@@ -5,6 +5,7 @@
 + [Better Explained](https://betterexplained.com/)
 
 ## Spark ##
++ [MapR - Apache Spark machine learning tutorial](https://www.mapr.com/blog/apache-spark-machine-learning-tutorial)
 + [Data science and engineering with Spark](https://courses.edx.org/dashboard/programs/21/data-science-and-engineering-with-spark)
   - [Introduction to Apache Spark](https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x)
   - [Big data analysis with Apache Spark](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x)
@@ -24,7 +25,6 @@
   - MapR
 
 ## Machine Learning ##
-+ [MapR - Apache Spark machine learning tutorial](https://www.mapr.com/blog/apache-spark-machine-learning-tutorial)
 + [Understanding machine learning](https://github.com/faameem/machine-learning/tree/master/understanding-machine-learning)
 + [Data school - machine learning](http://www.dataschool.io/tag/machine-learning/)
   - [Introduction to machine learning in Python with scikit-learn](http://www.dataschool.io/machine-learning-with-scikit-learn/)
