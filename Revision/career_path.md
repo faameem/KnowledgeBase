@@ -4,7 +4,7 @@
 + [Stat Trek](http://stattrek.com/)
 + [Better Explained](https://betterexplained.com/)
 
-## Spark ##
+## Data Science ##
 + [MapR - Apache Spark machine learning tutorial](https://www.mapr.com/blog/apache-spark-machine-learning-tutorial)
 + [Data science and engineering with Spark](https://courses.edx.org/dashboard/programs/21/data-science-and-engineering-with-spark)
   - [Introduction to Apache Spark](https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x)
@@ -20,6 +20,7 @@
 + [MapR - Apache Spark GraphX with Scala](https://www.mapr.com/blog/how-get-started-using-apache-spark-graphx-scala)
 + [Spark tutorials](http://sparktutorials.net/)
 + [Neo4j](https://neo4j.com/developer/get-started/)
++ [Neo4j Apache Spark Connector](https://neo4j.com/blog/neo4j-3-0-apache-spark-connector/)
 + Spark certifications
   - Databricks
   - MapR
@@ -43,3 +44,7 @@
 ## Natural Language Processing ##
 + [Natural Language Processing with Python](http://www.nltk.org/book/)
 + [Kaggle NLP tutorial](https://www.kaggle.com/c/word2vec-nlp-tutorial)
+
+## Python ##
++ [Full Stack Python](https://www.fullstackpython.com/)
++ [neo4django](https://neo4django.readthedocs.io/en/latest/index.html)
