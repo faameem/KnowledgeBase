@@ -5,6 +5,7 @@
 + [Better Explained](https://betterexplained.com/)
 
 ## Data Science ##
++ Coursera - Specialization: Big Data 
 + [MapR - Apache Spark machine learning tutorial](https://www.mapr.com/blog/apache-spark-machine-learning-tutorial)
 + [Data science and engineering with Spark](https://courses.edx.org/dashboard/programs/21/data-science-and-engineering-with-spark)
   - [Introduction to Apache Spark](https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x)
@@ -24,6 +25,7 @@
 + Spark certifications
   - Databricks
   - MapR
++ Coursera - Specialization: Data Science
 
 ## Machine Learning ##
 + [Understanding machine learning](https://github.com/faameem/machine-learning/tree/master/understanding-machine-learning)
