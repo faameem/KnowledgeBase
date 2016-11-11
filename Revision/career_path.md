@@ -1,8 +1,10 @@
 # Career Path #
 
-## Mathematics ##
-+ [Stat Trek](http://stattrek.com/)
-+ [Better Explained](https://betterexplained.com/)
+## Schedule ##
++ Data Science
++ Mathematics / Python
++ Machine Learning / Natural Language Processing
++ finallyai blog
 
 ## Data Science ##
 + Coursera - Specialization: Big Data 
@@ -27,6 +29,14 @@
   - MapR
 + Coursera - Specialization: Data Science
 
+## Mathematics ##
++ [Stat Trek](http://stattrek.com/)
++ [Better Explained](https://betterexplained.com/)
+
+## Python ##
++ [Full Stack Python](https://www.fullstackpython.com/)
++ [neo4django](https://neo4django.readthedocs.io/en/latest/index.html)
+
 ## Machine Learning ##
 + [Understanding machine learning](https://github.com/faameem/machine-learning/tree/master/understanding-machine-learning)
 + [Data school - machine learning](http://www.dataschool.io/tag/machine-learning/)
@@ -47,6 +57,4 @@
 + [Natural Language Processing with Python](http://www.nltk.org/book/)
 + [Kaggle NLP tutorial](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 
-## Python ##
-+ [Full Stack Python](https://www.fullstackpython.com/)
-+ [neo4django](https://neo4django.readthedocs.io/en/latest/index.html)
+## finallyai Blog ##
