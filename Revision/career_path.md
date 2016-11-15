@@ -39,6 +39,7 @@
 + [Python TDD](http://www.obeythetestinggoat.com/)
 + [Full Stack Python](https://www.fullstackpython.com/)
 + [neo4django](https://neo4django.readthedocs.io/en/latest/index.html)
++ [Invent with Python - video games](http://inventwithpython.com/)
 
 ## Machine Learning ##
 + [Understanding machine learning](https://github.com/faameem/machine-learning/tree/master/understanding-machine-learning)
