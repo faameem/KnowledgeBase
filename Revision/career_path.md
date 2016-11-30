@@ -24,6 +24,10 @@
 + [Spark tutorials](http://sparktutorials.net/)
 + [Neo4j](https://neo4j.com/developer/get-started/)
 + [Neo4j Apache Spark Connector](https://neo4j.com/blog/neo4j-3-0-apache-spark-connector/)
++ Spark AMP Camp exercises
++ Spark cookbook
++ Spark machine learning book
++ Spark hub blog for developers
 + Spark certifications
   - Databricks
   - MapR
@@ -62,3 +66,6 @@
 + [Kaggle NLP tutorial](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 
 ## finallyai Blog ##
++ Cloudera VM - Jupyter notebook - Spark setup
++ Pandas - create combined data file from coursera big data specialization capstone
++ Classify big spenders in Catch the Flamingo game using scikitlearn along with knime and spark mllib (decision trees + naive bayes)
