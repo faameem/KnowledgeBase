@@ -1,3 +1,3 @@
-# Khan Acadermy *
+# Khan Acadermy #
 + Art History
 + Entrepreunership
