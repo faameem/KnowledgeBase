@@ -36,6 +36,7 @@
 ## Mathematics ##
 + [Stat Trek](http://stattrek.com/)
 + [Better Explained](https://betterexplained.com/)
++ Khan Academy - Statistics
 
 ## Python ##
 + [django official tutorial](https://docs.djangoproject.com/en/1.10/intro/tutorial01/)
