@@ -40,6 +40,7 @@
 
 ## Python ##
 + [django official tutorial](https://docs.djangoproject.com/en/1.10/intro/tutorial01/)
++ [pythonprogramming.net - django](https://pythonprogramming.net/django-web-development-with-python-intro/)
 + [pythonprogramming.net - Pandas](https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/)
 + [django book](http://djangobook.com/)
 + [Python TDD](http://www.obeythetestinggoat.com/)
