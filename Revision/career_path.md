@@ -64,6 +64,7 @@
 + [Kaggle titanic](https://www.kaggle.com/c/titanic)
 
 ## Natural Language Processing ##
++ [pythonprogramming.net - NLTK Tutorial](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
 + [Natural Language Processing with Python](http://www.nltk.org/book/)
 + [Kaggle NLP tutorial](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 
