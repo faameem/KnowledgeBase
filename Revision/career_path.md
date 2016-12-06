@@ -46,6 +46,7 @@
 + [Python TDD](http://www.obeythetestinggoat.com/)
 + [Full Stack Python](https://www.fullstackpython.com/)
 + [neo4django](https://neo4django.readthedocs.io/en/latest/index.html)
++ [py2neo](http://www.slideshare.net/sonal-raj/neo4j-and-python-pycon-india-2014-talk)
 + [Invent with Python - video games](http://inventwithpython.com/)
 
 ## Machine Learning ##
