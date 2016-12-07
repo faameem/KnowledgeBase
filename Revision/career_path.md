@@ -49,7 +49,9 @@
 + [pythonprogramming.net - Pandas](https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/)
 + [python flask](http://flask.pocoo.org/)
 + [py2neo](http://www.slideshare.net/sonal-raj/neo4j-and-python-pycon-india-2014-talk)
+  - Use py2neo as object-graph-mapper (OGM) with Flask
 + [neomodel](http://neomodel.readthedocs.io/en/latest/)
+  - neomodel is built on top of py2neo, and can be used with django using signals/hooks
 + [django book](http://djangobook.com/)
 + [Python TDD](http://www.obeythetestinggoat.com/)
 + [Full Stack Python](https://www.fullstackpython.com/)
