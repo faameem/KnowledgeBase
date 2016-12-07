@@ -2,9 +2,9 @@
 
 ## Schedule ##
 + Data Science
++ finallyai blog
 + Mathematics / Python
 + Machine Learning / Natural Language Processing
-+ finallyai blog
 
 ## Data Science ##
 + Coursera - Specialization: Big Data 
@@ -32,6 +32,11 @@
   - Databricks
   - MapR
 + Coursera - Specialization: Data Science
+
+## finallyai Blog ##
++ Cloudera VM - Jupyter notebook - Spark setup
++ Pandas - create combined data file from coursera big data specialization capstone
++ Classify big spenders in Catch the Flamingo game using scikitlearn along with knime and spark mllib (decision trees + naive bayes)
 
 ## Mathematics ##
 + [Stat Trek](http://stattrek.com/)
@@ -70,8 +75,3 @@
 + [pythonprogramming.net - NLTK Tutorial](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
 + [Natural Language Processing with Python](http://www.nltk.org/book/)
 + [Kaggle NLP tutorial](https://www.kaggle.com/c/word2vec-nlp-tutorial)
-
-## finallyai Blog ##
-+ Cloudera VM - Jupyter notebook - Spark setup
-+ Pandas - create combined data file from coursera big data specialization capstone
-+ Classify big spenders in Catch the Flamingo game using scikitlearn along with knime and spark mllib (decision trees + naive bayes)
