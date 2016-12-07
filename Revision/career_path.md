@@ -1,10 +1,12 @@
 # Career Path #
 
-## Schedule ##
-+ Blog - finallyai
-+ Data Science
-+ Mathematics / Python
-+ Machine Learning / Natural Language Processing
+## Schedule A ##
++ (07:30 - 09:30 am) Blog - finallyai
++ (04:30 - 06:30 pm) Data Science
+
+## Schedule B ##
++ (07:30 - 09:30 am) Mathematics / Python
++ (04:30 - 06:30 pm) Machine Learning / Natural Language Processing
 
 ## Blog - finallyai ##
 + Cloudera VM - Jupyter notebook - Spark setup
