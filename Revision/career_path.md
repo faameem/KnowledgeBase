@@ -47,11 +47,13 @@
 + [django official tutorial](https://docs.djangoproject.com/en/1.10/intro/tutorial01/)
 + [pythonprogramming.net - django](https://pythonprogramming.net/django-web-development-with-python-intro/)
 + [pythonprogramming.net - Pandas](https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/)
++ [python flask](http://flask.pocoo.org/)
++ [py2neo](http://www.slideshare.net/sonal-raj/neo4j-and-python-pycon-india-2014-talk)
++ [neomodel](http://neomodel.readthedocs.io/en/latest/)
 + [django book](http://djangobook.com/)
 + [Python TDD](http://www.obeythetestinggoat.com/)
 + [Full Stack Python](https://www.fullstackpython.com/)
 + [neo4django](https://neo4django.readthedocs.io/en/latest/index.html)
-+ [py2neo](http://www.slideshare.net/sonal-raj/neo4j-and-python-pycon-india-2014-talk)
 + [Invent with Python - video games](http://inventwithpython.com/)
 
 ## Machine Learning ##
