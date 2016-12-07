@@ -1,10 +1,17 @@
 # Career Path #
 
 ## Schedule ##
++ Blog - finallyai
 + Data Science
-+ finallyai blog
 + Mathematics / Python
 + Machine Learning / Natural Language Processing
+
+## Blog - finallyai ##
++ Cloudera VM - Jupyter notebook - Spark setup
++ Pandas - create combined data file from coursera big data specialization capstone
++ Classify big spenders in Catch the Flamingo game using scikitlearn along with knime and spark mllib (decision trees + naive bayes)
++ Catch the Flamingo game chat using neo4j, (py2neo, flask) / (neomodel, django)
++ lambda architecture - django, pykka, avro, kafka
 
 ## Data Science ##
 + Coursera - Specialization: Big Data 
@@ -32,11 +39,6 @@
   - Databricks
   - MapR
 + Coursera - Specialization: Data Science
-
-## finallyai Blog ##
-+ Cloudera VM - Jupyter notebook - Spark setup
-+ Pandas - create combined data file from coursera big data specialization capstone
-+ Classify big spenders in Catch the Flamingo game using scikitlearn along with knime and spark mllib (decision trees + naive bayes)
 
 ## Mathematics ##
 + [Stat Trek](http://stattrek.com/)
