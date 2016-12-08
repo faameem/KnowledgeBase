@@ -1,19 +1,34 @@
 # Career Path #
 
 ## Schedule A ##
-+ (07:30 - 09:30 am) Blog - finallyai
-+ (04:30 - 06:30 pm) Data Science
++ **07:30-08:30 am** ML/NLP Theory
++ **08:30-09:30 am** ML/NLP Practise - Kaggle/UCI
 
 ## Schedule B ##
-+ (07:30 - 09:30 am) Mathematics / Python
-+ (04:30 - 06:30 pm) Machine Learning / Natural Language Processing
++ **04:30-05:30 pm** Data Science / Math / Python
++ **05:30-06:30 pm** Blog - finallyai
 
-## Blog - finallyai ##
-+ Cloudera VM - Jupyter notebook - Spark setup
-+ Pandas - create combined data file from coursera big data specialization capstone
-+ Classify big spenders in Catch the Flamingo game using scikitlearn along with knime and spark mllib (decision trees + naive bayes)
-+ Catch the Flamingo game chat using neo4j, (py2neo, flask) / (neomodel, django)
-+ lambda architecture - django, pykka, avro, kafka
+## Machine Learning ##
++ [Understanding machine learning](https://github.com/faameem/machine-learning/tree/master/understanding-machine-learning)
++ [Data school - machine learning](http://www.dataschool.io/tag/machine-learning/)
+  - [Introduction to machine learning in Python with scikit-learn](http://www.dataschool.io/machine-learning-with-scikit-learn/)
+  - [Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
+  - [ROC curves and Area Under the Curve explained](http://www.dataschool.io/roc-curves-and-auc-explained/)
+  - [Simple guide to confusion matrix terminology](http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
++ [Python understanding machine language](https://github.com/faameem/machine-learning/tree/master/python-understanding-machine-learning)
++ [Machine Learning Mastery](http://machinelearningmastery.com/)
+  - [Python Machine Learning](http://machinelearningmastery.com/category/python-machine-learning/)
+  - [Deep Learning](http://machinelearningmastery.com/category/deep-learning/)
+  - [XGBoost](http://machinelearningmastery.com/category/xgboost/)
+  - [Algorithms](http://machinelearningmastery.com/category/machine-learning-algorithms/)
+  - [Algorithms from Scratch](http://machinelearningmastery.com/category/algorithms-from-scratch/)
++ [scikit-learn Tutorials](http://scikit-learn.org/stable/tutorial/index.html)
++ [Kaggle titanic](https://www.kaggle.com/c/titanic)
+
+## Natural Language Processing ##
++ [pythonprogramming.net - NLTK Tutorial](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
++ [Natural Language Processing with Python](http://www.nltk.org/book/)
++ [Kaggle NLP tutorial](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 
 ## Data Science ##
 + Coursera - Specialization: Big Data 
@@ -62,24 +77,9 @@
 + [neo4django](https://neo4django.readthedocs.io/en/latest/index.html)
 + [Invent with Python - video games](http://inventwithpython.com/)
 
-## Machine Learning ##
-+ [Understanding machine learning](https://github.com/faameem/machine-learning/tree/master/understanding-machine-learning)
-+ [Data school - machine learning](http://www.dataschool.io/tag/machine-learning/)
-  - [Introduction to machine learning in Python with scikit-learn](http://www.dataschool.io/machine-learning-with-scikit-learn/)
-  - [Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
-  - [ROC curves and Area Under the Curve explained](http://www.dataschool.io/roc-curves-and-auc-explained/)
-  - [Simple guide to confusion matrix terminology](http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
-+ [Python understanding machine language](https://github.com/faameem/machine-learning/tree/master/python-understanding-machine-learning)
-+ [Machine Learning Mastery](http://machinelearningmastery.com/)
-  - [Python Machine Learning](http://machinelearningmastery.com/category/python-machine-learning/)
-  - [Deep Learning](http://machinelearningmastery.com/category/deep-learning/)
-  - [XGBoost](http://machinelearningmastery.com/category/xgboost/)
-  - [Algorithms](http://machinelearningmastery.com/category/machine-learning-algorithms/)
-  - [Algorithms from Scratch](http://machinelearningmastery.com/category/algorithms-from-scratch/)
-+ [scikit-learn Tutorials](http://scikit-learn.org/stable/tutorial/index.html)
-+ [Kaggle titanic](https://www.kaggle.com/c/titanic)
-
-## Natural Language Processing ##
-+ [pythonprogramming.net - NLTK Tutorial](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
-+ [Natural Language Processing with Python](http://www.nltk.org/book/)
-+ [Kaggle NLP tutorial](https://www.kaggle.com/c/word2vec-nlp-tutorial)
+## Blog - finallyai ##
++ Cloudera VM - Jupyter notebook - Spark setup
++ Pandas - create combined data file from coursera big data specialization capstone
++ Classify big spenders in Catch the Flamingo game using scikitlearn along with knime and spark mllib (decision trees + naive bayes)
++ Catch the Flamingo game chat using neo4j, (py2neo, flask) / (neomodel, django)
++ lambda architecture - django, pykka, avro, kafka
