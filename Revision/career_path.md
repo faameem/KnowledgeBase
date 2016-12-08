@@ -8,7 +8,13 @@
 + **04:30-05:30 pm** Data Science / Math / Python
 + **05:30-06:30 pm** Blog - finallyai
 
-## Machine Learning ##
+## ML/NLP Theory ##
++ [Machine Learning Mastery](http://machinelearningmastery.com/)
+  - [Python Machine Learning](http://machinelearningmastery.com/category/python-machine-learning/)
+  - [Algorithms](http://machinelearningmastery.com/category/machine-learning-algorithms/)
+  - [Algorithms from Scratch](http://machinelearningmastery.com/category/algorithms-from-scratch/)
+  - [XGBoost](http://machinelearningmastery.com/category/xgboost/)
+  - [Deep Learning](http://machinelearningmastery.com/category/deep-learning/)
 + [Understanding machine learning](https://github.com/faameem/machine-learning/tree/master/understanding-machine-learning)
 + [Data school - machine learning](http://www.dataschool.io/tag/machine-learning/)
   - [Introduction to machine learning in Python with scikit-learn](http://www.dataschool.io/machine-learning-with-scikit-learn/)
@@ -16,18 +22,12 @@
   - [ROC curves and Area Under the Curve explained](http://www.dataschool.io/roc-curves-and-auc-explained/)
   - [Simple guide to confusion matrix terminology](http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
 + [Python understanding machine language](https://github.com/faameem/machine-learning/tree/master/python-understanding-machine-learning)
-+ [Machine Learning Mastery](http://machinelearningmastery.com/)
-  - [Python Machine Learning](http://machinelearningmastery.com/category/python-machine-learning/)
-  - [Deep Learning](http://machinelearningmastery.com/category/deep-learning/)
-  - [XGBoost](http://machinelearningmastery.com/category/xgboost/)
-  - [Algorithms](http://machinelearningmastery.com/category/machine-learning-algorithms/)
-  - [Algorithms from Scratch](http://machinelearningmastery.com/category/algorithms-from-scratch/)
 + [scikit-learn Tutorials](http://scikit-learn.org/stable/tutorial/index.html)
-+ [Kaggle titanic](https://www.kaggle.com/c/titanic)
-
-## Natural Language Processing ##
 + [pythonprogramming.net - NLTK Tutorial](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
 + [Natural Language Processing with Python](http://www.nltk.org/book/)
+
+## ML/NLP Practise ##
++ [Kaggle titanic](https://www.kaggle.com/c/titanic)
 + [Kaggle NLP tutorial](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 
 ## Data Science ##
