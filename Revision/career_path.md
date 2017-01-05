@@ -79,6 +79,7 @@
 
 ## Blog - finallyai ##
 + Cloudera VM - Jupyter notebook - Spark setup
++ Python, Mongo, django notes/comments .eml files
 + Pandas - create combined data file from coursera big data specialization capstone
 + Classify big spenders in Catch the Flamingo game using scikitlearn along with knime and spark mllib (decision trees + naive bayes)
 + Catch the Flamingo game chat using neo4j, (py2neo, flask) / (neomodel, django)
