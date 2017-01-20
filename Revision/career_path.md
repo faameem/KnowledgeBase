@@ -9,6 +9,7 @@
 + **05:30-06:30 pm** Blog - finallyai
 
 ## ML/NLP Theory ##
++ [Pandas Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
 + [Machine Learning Mastery](http://machinelearningmastery.com/)
   - [Python Machine Learning](http://machinelearningmastery.com/category/python-machine-learning/)
   - [Algorithms](http://machinelearningmastery.com/category/machine-learning-algorithms/)
