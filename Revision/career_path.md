@@ -92,6 +92,7 @@
 
 ## Blog - finallyai ##
 + Cloudera VM - Jupyter notebook - Spark setup
++ MapR - Apache Spark machine learning tutorial - using pyspark instead of spark-shell
 + Python, Mongo, django notes/comments .eml files
 + Pandas - create combined data file from coursera big data specialization capstone
 + Classify big spenders in Catch the Flamingo game using scikitlearn along with knime and spark mllib (decision trees + naive bayes)
