@@ -35,6 +35,10 @@
 + Coursera - Specialization: Data Science
 
 ## AI/ML/NLP Theory ##
++ [pythonprogramming.net - Machine Learning](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
++ [pythonprogramming.net - SVM](https://pythonprogramming.net/machine-learning-python-sklearn-intro/)
++ [pythonprogramming.net - Clustering](https://pythonprogramming.net/flat-clustering-machine-learning-python-scikit-learn/)
++ [pythonprogramming.net - Image Recognition](https://pythonprogramming.net/image-recognition-python/)
 + [pythonprogramming.net - NLTK Tutorial](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
 + [AnalyticsVidhya python nlp](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
 + [Natural Language Processing with Python](http://www.nltk.org/book/)
@@ -61,7 +65,13 @@
 + [AnalyticsVidhya ai books](https://www.analyticsvidhya.com/blog/2015/10/read-books-for-beginners-machine-learning-artificial-intelligence/)
 
 ## Python ##
++ [pythonprogramming.net - Python Data Visualization](https://pythonprogramming.net/matplotlib-intro-tutorial/)
 + [pythonprogramming.net - Pandas](https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/)
++ [pythonprogramming.net - Finance](https://pythonprogramming.net/getting-stock-prices-python-programming-for-finance/)
++ [pythonprogramming.net - Image & Video Analysis](https://pythonprogramming.net/loading-images-python-opencv-tutorial/)
++ [pythonprogramming.net - Basic Python](https://pythonprogramming.net/introduction-to-python-programming/)
++ [pythonprogramming.net - Intermediate Python](https://pythonprogramming.net/introduction-intermediate-python-tutorial/)
++ [pythonprogramming.net - Flask](https://pythonprogramming.net/practical-flask-introduction/)
 + [Pandas Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
 + Web Scraping
   [1](http://docs.python-guide.org/en/latest/scenarios/scrape/)
