@@ -36,6 +36,7 @@
 
 ## AI/ML/NLP Theory ##
 + [Social Media & Text Analytics](http://socialmedia-class.org/index.html)
++ [Speech and Language Processing](https://cocoxu.github.io/courses/5525_spring17.html)
 + [Machine Learning Mastery](http://machinelearningmastery.com/)
   - [Python Machine Learning](http://machinelearningmastery.com/category/python-machine-learning/)
   - [Algorithms](http://machinelearningmastery.com/category/machine-learning-algorithms/)
