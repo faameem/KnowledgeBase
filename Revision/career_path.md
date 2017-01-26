@@ -35,7 +35,7 @@
 + Coursera - Specialization: Data Science
 
 ## AI/ML/NLP Theory ##
-+[Social Media & Text Analytics](http://socialmedia-class.org/index.html)
++ [Social Media & Text Analytics](http://socialmedia-class.org/index.html)
 + [Machine Learning Mastery](http://machinelearningmastery.com/)
   - [Python Machine Learning](http://machinelearningmastery.com/category/python-machine-learning/)
   - [Algorithms](http://machinelearningmastery.com/category/machine-learning-algorithms/)
