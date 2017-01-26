@@ -35,6 +35,9 @@
 + Coursera - Specialization: Data Science
 
 ## AI/ML/NLP Theory ##
++ [pythonprogramming.net - NLTK Tutorial](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
++ [AnalyticsVidhya python nlp](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
++ [Natural Language Processing with Python](http://www.nltk.org/book/)
 + [Social Media & Text Analytics](http://socialmedia-class.org/index.html)
 + [Speech and Language Processing](https://cocoxu.github.io/courses/5525_spring17.html)
 + [Machine Learning Mastery](http://machinelearningmastery.com/)
@@ -51,9 +54,6 @@
   - [Simple guide to confusion matrix terminology](http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
 + [Python understanding machine language](https://github.com/faameem/machine-learning/tree/master/python-understanding-machine-learning)
 + [scikit-learn Tutorials](http://scikit-learn.org/stable/tutorial/index.html)
-+ [pythonprogramming.net - NLTK Tutorial](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
-+ [AnalyticsVidhya python nlp](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
-+ [Natural Language Processing with Python](http://www.nltk.org/book/)
 + [AnalyticsVidhya python](https://www.analyticsvidhya.com/blog/category/python-2/)
 + [The most comprehensive Data Science learning plan for 2017](https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/)
 + [AnalyticsVidhya data science with python](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
