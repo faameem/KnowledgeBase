@@ -103,6 +103,7 @@
 
 ## Blog - finallyai ##
 + Cloudera VM - Jupyter notebook - Spark setup
++ Edx - Data Science and Engineering with Spark - notes
 + MapR - Apache Spark machine learning tutorial - using pyspark instead of spark-shell
 + Python, Mongo, django notes/comments .eml files
 + Pandas - create combined data file from coursera big data specialization capstone
