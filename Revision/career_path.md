@@ -36,9 +36,9 @@
 + Coursera - Specialization: Data Science
 
 ## AI/ML/NLP Theory ##
-+ [pythonprogramming.net - Machine Learning](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
 + [pythonprogramming.net - SVM](https://pythonprogramming.net/machine-learning-python-sklearn-intro/)
 + [pythonprogramming.net - Clustering](https://pythonprogramming.net/flat-clustering-machine-learning-python-scikit-learn/)
++ [pythonprogramming.net - Machine Learning](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
 + [pythonprogramming.net - Image Recognition](https://pythonprogramming.net/image-recognition-python/)
 + [pythonprogramming.net - NLTK Tutorial](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
 + [AnalyticsVidhya python nlp](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
