@@ -16,6 +16,7 @@
   - [DEV 361 - Build and monitor Apache Spark applications](http://learn.mapr.com/dev-361-build-and-monitor-apache-spark-applications)
   - [DEV 362 - Create data pipelines using Apache Spark](http://learn.mapr.com/dev-362-create-data-pipelines-using-apache-spark)
   - [MCSD study guide - MapR certified Spark developer](http://learn.mapr.com/free-spark-certification-study-guide)
++ [Microsoft - Implementing Predictive Analytics with Spark in Azure HDInsight](https://courses.edx.org/courses/course-v1:Microsoft+DAT202.3x+1T2017/info)
 + [Apache Spark documentation](http://spark.apache.org/docs/latest/)
 + [GraphFrames](http://graphframes.github.io/index.html)
 + [MapR - Apache Spark GraphX with Scala](https://www.mapr.com/blog/how-get-started-using-apache-spark-graphx-scala)
