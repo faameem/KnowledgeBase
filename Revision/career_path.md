@@ -51,6 +51,7 @@
   - [Algorithms from Scratch](http://machinelearningmastery.com/category/algorithms-from-scratch/)
   - [XGBoost](http://machinelearningmastery.com/category/xgboost/)
   - [Deep Learning](http://machinelearningmastery.com/category/deep-learning/)
+  - [Time Series](http://machinelearningmastery.com/category/time-series/)
 + [Understanding machine learning](https://github.com/faameem/machine-learning/tree/master/understanding-machine-learning)
 + [Data school - machine learning](http://www.dataschool.io/tag/machine-learning/)
   - [Introduction to machine learning in Python with scikit-learn](http://www.dataschool.io/machine-learning-with-scikit-learn/)
