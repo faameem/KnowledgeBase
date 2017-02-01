@@ -1,8 +1,9 @@
 # Career Path #
 
-+ **04:30-05:30-06:30** Data Science
-+ **08:00-09:00-10:00** AI/ML/NLP
-+ **10:00-11:00-12:00** Python
++ **05:00-06:00-07:00** Write
++ **08:30-09:30-10:30** AI/ML/NLP
++ **10:30-11:30-12:30** Data Science or Python
+
 (finallyai - kaggle - uci)
 
 ## Data Science ##
