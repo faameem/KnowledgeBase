@@ -1,12 +1,15 @@
 # Career Path #
 
-+ **05:00-06:00-07:00** Write
-+ **08:30-09:30-10:30** AI/ML/NLP
-+ **10:30-11:30-12:30** Computer Science or Data Science
++ **04:30-05:30** Write
++ **05:30-06:30** AI/ML/NLP
++ **06:30-07:30** Computer Science or Data Science
 
 (finallyai - kaggle - uci)
 
-## ML/NLP Practise ##
+## AI/ML/NLP News ##
++ [Orielly](https://www.oreilly.com/topics/ai)
+
+## AI/ML/NLP Practise ##
 + [Kaggle titanic](https://www.kaggle.com/c/titanic)
 + [Kaggle NLP tutorial](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 
