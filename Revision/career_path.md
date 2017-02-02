@@ -3,8 +3,7 @@
 + **04:30-05:30** Write
 + **05:30-06:30** AI/ML/NLP
 + **06:30-07:30** Computer Science or Data Science
-
-(finallyai - kaggle - uci)
++ **09:00-11:00** finallyai - kaggle - uci
 
 ## AI/ML/NLP News ##
 + [Orielly](https://www.oreilly.com/topics/ai)
