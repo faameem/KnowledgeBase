@@ -1,9 +1,9 @@
 # Career Path #
 
-+ **04:30-05:30** Write
-+ **05:30-06:30** AI/ML/NLP
-+ **06:30-07:30** Computer Science or Data Science
-+ **09:00-11:00** finallyai - kaggle - uci
++ **05:00-06:00-07:00** Write
++ **09:00-10:00-11:00** AI/ML/NLP
++ **11:00-12:00-1:00** Computer Science or Data Science
++ **-** finallyai - kaggle - uci
 
 ## AI/ML/NLP News ##
 + [Orielly](https://www.oreilly.com/topics/ai)
@@ -89,6 +89,7 @@
 + [Microsoft - Implementing Predictive Analytics with Spark in Azure HDInsight](https://courses.edx.org/courses/course-v1:Microsoft+DAT202.3x+1T2017/info)
 + [Apache Spark documentation](http://spark.apache.org/docs/latest/)
 + [GraphFrames](http://graphframes.github.io/index.html)
++ [Hortonworks Tutorials](http://hortonworks.com/developers/)
 + [MapR - Apache Spark GraphX with Scala](https://www.mapr.com/blog/how-get-started-using-apache-spark-graphx-scala)
 + [Spark tutorials](http://sparktutorials.net/)
 + [Neo4j](https://neo4j.com/developer/get-started/)
