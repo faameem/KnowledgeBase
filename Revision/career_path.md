@@ -1,10 +1,5 @@
 # Career Path #
 
-+ **05:00-06:00-07:00** Write
-+ **09:00-10:00-11:00** AI/ML/NLP
-+ **11:00-12:00-1:00** Computer Science or Data Science
-+ finallyai - kaggle - uci
-
 ## AI/ML/NLP News ##
 + [Orielly](https://www.oreilly.com/topics/ai)
 
