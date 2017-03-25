@@ -14,6 +14,8 @@
 + [pythonprogramming.net - Image Recognition](https://pythonprogramming.net/image-recognition-python/)
 + [pythonprogramming.net - NLTK Tutorial](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
 + [AnalyticsVidhya python nlp](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
++ [Sentiment-Analysis-In-Apache-Spark-Using-NLTK](https://github.com/ikhedr/Sentiment-Analysis-In-Apache-Spark-Using-NLTK)
++ [LARGE SCALE TEXT ANALYSIS WITH APACHE SPARK](http://www.textanalyticsworld.com/pdf/SF/2015/Day1_1405_Daniel.pdf)
 + [Natural Language Processing with Python](http://www.nltk.org/book/)
 + [Social Media & Text Analytics](http://socialmedia-class.org/index.html)
 + [Speech and Language Processing](https://cocoxu.github.io/courses/5525_spring17.html)
