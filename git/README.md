@@ -2,11 +2,14 @@
 
 Description | Command
 -- | -- 
+** Init ** | 
 To initialize a git repository | $ git init
 To check status of repository - do this often | $ git status
+** Staging ** |
 To stage file.txt | $ git add file.txt
 To diff staged files | $ git diff --staged
 To un-stage files | $ git reset file.txt
+** Commit ** |
 To commit | $ git commit file.txt -m "commit file.txt"
 To view commit history | $ git log
 To add local repo to github server | $ git remote add origin https://somerepo
