@@ -1,7 +1,6 @@
 # git Commands #
 
-* Initialize a git repository:
-  $ git init
-* check status
-  $ git status
+| Description | Command |
+| Initialize a git repository: | $ git init |
+| check status |   $ git status |
   
