@@ -6,7 +6,14 @@ Description | Command
 To initialize a git repository | $ git init
 To check status of repository - do this often | $ git status
 **_Clone_**|
-To clone repository to a directory | $ git clone repo_uri ./dir_name
+To clone to a specific folder | $ git clone <repo> <directory>
+To cloning a specific tag | $ git clone -branch <tag> <repo>
+To shallow clone | $ git clone -depth=1 <repo>
+**_Working with Develop Branch_**|
+To create a feature branch from develop branch| $ git checkout develop
+| $ git checkout -b develop_fm
+To merge a feature branch to develop branch| $ git checkout develop
+| $ git merge develop_fm
 **_Staging_** |
 To stage file.txt | $ git add file.txt
 To diff staged files | $ git diff --staged
