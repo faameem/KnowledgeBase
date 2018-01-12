@@ -11,9 +11,9 @@ To cloning a specific tag | $ git clone -branch <tag> <repo>
 To shallow clone | $ git clone -depth=1 <repo>
 **_Working with Develop Branch_**|
 To create a feature branch from develop branch| $ git checkout develop
-| $ git checkout -b develop_fm
+ | $ git checkout -b develop_fm
 To merge a feature branch to develop branch| $ git checkout develop
-| $ git merge develop_fm
+ | $ git merge develop_fm
 **_Staging_** |
 To stage file.txt | $ git add file.txt
 To diff staged files | $ git diff --staged
