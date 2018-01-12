@@ -5,6 +5,8 @@ Description | Command
 **_Init_** | 
 To initialize a git repository | $ git init
 To check status of repository - do this often | $ git status
+**_Clone_**|
+To clone repository to a directory | $ git clone repo_uri ./dir_name
 **_Staging_** |
 To stage file.txt | $ git add file.txt
 To diff staged files | $ git diff --staged
